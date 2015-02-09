@@ -5,6 +5,6 @@
 
 @section("admin_content")
     <form>
-        cuchuoi28
+        cuchuoi2
     </form>
 @stop
