@@ -6,6 +6,6 @@
 @section("admin_content")
     <form>
         <input>
-       cuchuoi281asdhasdfkhaksdhfik
+
     </form>
 @stop
